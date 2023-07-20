@@ -1,0 +1,11 @@
+
+.container {
+  border-radius: 5px;
+  box-shadow: rgb(109 109 125 / 28%) 0px 4px 7px 12px;
+  padding: 20px;
+}
+
+.banner iframe{
+  width: 100%;
+  height: 666px;
+}

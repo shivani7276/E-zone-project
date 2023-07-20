@@ -1,0 +1,31 @@
+
+h1 {
+    font-size: 20px;
+    margin-top: 5px;
+}
+img {
+    width: 100vw;
+    height: 400px;
+}
+#exploreMenuSection img {
+    height: 203px;
+}
+.footer-box {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(5, 5, 5);
+    color: rgb(255, 253, 253);  
+ }
+ .copy{
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(14, 13, 13);
+    color: rgb(255, 248, 248);
+    text-align: center;
+   height: 70px;
+   padding-top: 20px;
+ }

@@ -1,0 +1,31 @@
+.main
+{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    /* background-color: #000000; */
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    text-decoration: overline;
+}
+.main > .selected {
+    background: grey;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding: 0 10px 0 10px;
+}
+.main img {
+    height: 111px;
+    width: 200px;
+    
+}
+.main div
+{
+    cursor: pointer;
+}
+.sign-up{
+    color:blue;
+    cursor: pointer;
+}
